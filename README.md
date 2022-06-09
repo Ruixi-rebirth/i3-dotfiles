@@ -6,5 +6,6 @@ $ chezmoi init --apply https://github.com/Ruixi-rebirth/i3-dotfiles.git
 ```
 
 ### Shot
-![](./des.png)
+![](./show/des.png)
+![](./show/des1.png)
 
