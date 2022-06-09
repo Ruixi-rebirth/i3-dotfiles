@@ -1,0 +1,14 @@
+#!/bin/bash 
+xrandr --setprovideroutputsource modesetting NVIDIA-0
+xrandr --auto
+exec i3
+#
+# Preventing nested ranger instances
+ranger() {
+    if [ -z "$RANGER_LEVEL" ]; then
+        /usr/bin/ranger "$@"
+    else
+        exit
+    fi
+}
+
