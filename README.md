@@ -1,8 +1,12 @@
 ### how to use my dotfiles?
 
-😀I use [chezmoi](https://github.com/twpayne/chezmoi) to manager my dotfiles! （Provided you have to download it）。Please use the following command to use my dotfiles.(**Please back up your files before overwriting**)
+- 😀I use [chezmoi](https://github.com/twpayne/chezmoi) to manager my dotfiles! （Provided you have to download it）。Please use the following command to use my dotfiles.(**Please back up your files before overwriting**)
 ```bash
 $ chezmoi init --apply https://github.com/Ruixi-rebirth/i3-dotfiles.git
+```
+- Of course, you can also clone the repository directly and choose the configuration you need.
+```bash
+$ git clone https://github.com/Ruixi-rebirth/i3-dotfiles.git
 ```
 
 ### Shot
