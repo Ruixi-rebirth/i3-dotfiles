@@ -1,4 +1,5 @@
-require("core.lsp")
 require("core.autocmd")
 require("core.mappings")
 require("core.options")
+require("core.lspconfig")
+require("core.null-ls")

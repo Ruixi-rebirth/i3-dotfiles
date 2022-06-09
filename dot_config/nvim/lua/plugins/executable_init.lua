@@ -9,7 +9,7 @@ require("plugins.configs.autopairs")
 require("plugins.configs.comment")
 require("plugins.configs.gitsigns")
 require("plugins.configs.nvim-tree")
---require("plugins.configs.toggleterm")
+require("plugins.configs.toggleterm")
 local fn = vim.fn
 -- automatically install packer
 local install_path = fn.stdpath("data") .. "/site/pack/packer/start/packer.nvim"

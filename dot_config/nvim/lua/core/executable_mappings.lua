@@ -33,7 +33,7 @@ keymap("n", "<S-TAB>", ":bprevious<CR>", opts)
 
 -- nvim-tree(toggle & focus) --
 keymap("n", "tt", ":NvimTreeToggle<CR>", opts)
-keymap("n", "<leader>e", ":NvimTreeFocus<CR>", opts)
+-- keymap("n", "<leader>e", ":NvimTreeFocus<CR>", opts)
 
 -- Stay in indent mode --
 keymap("v", "<", "<gv", opts)
@@ -71,7 +71,7 @@ keymap("n", "N", "Nzz", opts)
 keymap("n", "mp", ":MarkdownPreview<CR>", opts)
 
 -- open telscope --
-keymap("n", "<Leader>f", ":Telescope<CR>", opts)
+keymap("n", "<Leader>e", ":Telescope<CR>", opts)
 
 -- open or close trouble.nvim --
 keymap("n", "tr", ":TroubleToggle<CR>", opts)
