@@ -30,5 +30,6 @@ $ git clone https://github.com/Ruixi-rebirth/i3-dotfiles.git
 
 
 <hr>
+
 https://user-images.githubusercontent.com/75824585/172759404-4a964beb-e634-4719-aa6e-a892efcf1244.mp4
 
