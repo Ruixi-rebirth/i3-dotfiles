@@ -10,13 +10,25 @@ $ git clone https://github.com/Ruixi-rebirth/i3-dotfiles.git
 ```
 
 ### Shot
-![](./show/des.png)
+![](./show/des3.png)
+
+<hr>
+
+![](./show/des4.png)
+
+<hr>
+
+![](./show/des2.png)
+
+<hr>
+
+![](./show/a.jpg)
 
 <hr>
 
 ![](./show/des1.png)
 
-<hr>
 
+<hr>
 https://user-images.githubusercontent.com/75824585/172759404-4a964beb-e634-4719-aa6e-a892efcf1244.mp4
 
