@@ -10,7 +10,8 @@ $ git clone https://github.com/Ruixi-rebirth/i3-dotfiles.git
 ```
 
 ### Video
-[Daily operation of ordinary users](https://www.bilibili.com/video/BV1SW4y1k7JA?vd_source=c4f02f0c890cb2be8edb56aa53774e09)
+
+<iframe src="//player.bilibili.com/player.html?aid=940029842&bvid=BV1SW4y1k7JA&cid=749783262&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 ### Shot
 ![](./show/des3.png)
