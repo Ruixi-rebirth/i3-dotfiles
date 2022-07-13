@@ -9,6 +9,9 @@ $ chezmoi init --apply https://github.com/Ruixi-rebirth/i3-dotfiles.git
 $ git clone https://github.com/Ruixi-rebirth/i3-dotfiles.git
 ```
 
+### Video
+[Daily operation of ordinary users](https://www.bilibili.com/video/BV1SW4y1k7JA?vd_source=c4f02f0c890cb2be8edb56aa53774e09)
+
 ### Shot
 ![](./show/des3.png)
 
