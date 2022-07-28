@@ -18,21 +18,20 @@ $ git clone https://github.com/Ruixi-rebirth/i3-dotfiles.git
 ### Shot
 ![](./show/des3.png)
 
-<hr>
-
 ![](./show/des4.png)
-
-<hr>
 
 ![](./show/des2.png)
 
-<hr>
+<details>
+<summary style="font-size:1.25em;"><b>Load more</b> <span style="font-size:14px;">(Click to expend) </span> </summary>
 
 ![](./show/a.jpg)
 
-<hr>
-
 ![](./show/des1.png)
+</details>
+
+
+
 
 
 <hr>
