@@ -1,3 +1,5 @@
+<h1 align="center">Gentoo <img src="./show/Gentooavi2.jpg" width="68px"> Linux</h2>
+
 ### how to use my dotfiles?
 
 - 😀I use [chezmoi](https://github.com/twpayne/chezmoi) to manager my dotfiles! （Provided you have to download it）。Please use the following command to use my dotfiles.(**Please back up your files before overwriting**)
